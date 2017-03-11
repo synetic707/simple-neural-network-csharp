@@ -1,0 +1,8 @@
+c:\users\synetic707\documents\visual studio 2015\Projects\SimpleNN_translated\SimpleNN_translated\bin\Release\SimpleNN_translated.exe.config
+c:\users\synetic707\documents\visual studio 2015\Projects\SimpleNN_translated\SimpleNN_translated\bin\Release\Accord.dll.config
+c:\users\synetic707\documents\visual studio 2015\Projects\SimpleNN_translated\SimpleNN_translated\bin\Release\SimpleNN_translated.exe
+c:\users\synetic707\documents\visual studio 2015\Projects\SimpleNN_translated\SimpleNN_translated\bin\Release\SimpleNN_translated.pdb
+c:\users\synetic707\documents\visual studio 2015\Projects\SimpleNN_translated\SimpleNN_translated\bin\Release\MathNet.Numerics.dll
+c:\users\synetic707\documents\visual studio 2015\Projects\SimpleNN_translated\SimpleNN_translated\bin\Release\MathNet.Numerics.xml
+c:\users\synetic707\documents\visual studio 2015\Projects\SimpleNN_translated\SimpleNN_translated\obj\Release\SimpleNN_translated.exe
+c:\users\synetic707\documents\visual studio 2015\Projects\SimpleNN_translated\SimpleNN_translated\obj\Release\SimpleNN_translated.pdb

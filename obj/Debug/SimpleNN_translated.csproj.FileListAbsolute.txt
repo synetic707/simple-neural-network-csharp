@@ -1,0 +1,9 @@
+c:\users\synetic707\documents\visual studio 2015\Projects\SimpleNN_translated\SimpleNN_translated\bin\Debug\SimpleNN_translated.exe.config
+c:\users\synetic707\documents\visual studio 2015\Projects\SimpleNN_translated\SimpleNN_translated\obj\Debug\SimpleNN_translated.csprojResolveAssemblyReference.cache
+c:\users\synetic707\documents\visual studio 2015\Projects\SimpleNN_translated\SimpleNN_translated\bin\Debug\Accord.dll.config
+c:\users\synetic707\documents\visual studio 2015\Projects\SimpleNN_translated\SimpleNN_translated\bin\Debug\SimpleNN_translated.exe
+c:\users\synetic707\documents\visual studio 2015\Projects\SimpleNN_translated\SimpleNN_translated\bin\Debug\SimpleNN_translated.pdb
+c:\users\synetic707\documents\visual studio 2015\Projects\SimpleNN_translated\SimpleNN_translated\bin\Debug\MathNet.Numerics.dll
+c:\users\synetic707\documents\visual studio 2015\Projects\SimpleNN_translated\SimpleNN_translated\bin\Debug\MathNet.Numerics.xml
+c:\users\synetic707\documents\visual studio 2015\Projects\SimpleNN_translated\SimpleNN_translated\obj\Debug\SimpleNN_translated.exe
+c:\users\synetic707\documents\visual studio 2015\Projects\SimpleNN_translated\SimpleNN_translated\obj\Debug\SimpleNN_translated.pdb
