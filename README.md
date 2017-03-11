@@ -13,3 +13,5 @@ It helps me to get a deeper understanding of how Neural Networks work. And also 
 
 100 000 Iterations: Python 7657ms C# 259ms - 97% faster
 
+# Libraries used
+Math.NET Numerics (Math.NET Numerics License (MIT/X11))
